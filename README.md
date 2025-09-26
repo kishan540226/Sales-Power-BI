@@ -20,6 +20,6 @@ Create an interactive dashboard using sales data to analyze performance across t
 
 ## 👨‍💻 Author
 
-Harikishan S.P
-GitHub: @kishan540226
-Email:hk9070689@gmail.com
+- Harikishan S.P
+- GitHub: @kishan540226
+- Email:hk9070689@gmail.com
